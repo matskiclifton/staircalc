@@ -1,0 +1,4 @@
+staircalc
+=========
+
+Calculates staircase dimentions
